@@ -6,7 +6,7 @@ An AI-powered trip planning app that generates personalized day plans from natur
 Original ui design(May have some diffrence): 
 https://rename-butter-12998403.figma.site
 
-<img src="./docs/Main_Screen.png" width="480" alt="Main Screen" />
+<img src="./docs/Main_Screen.png" width="240" alt="Main Screen" />
 
 ## Architecture
 
