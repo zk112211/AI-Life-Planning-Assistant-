@@ -3,8 +3,10 @@
 An AI-powered trip planning app that generates personalized day plans from natural language. Built with a multi-agent backend (FastAPI + Google Gemini) and a cross-platform Flutter frontend with real-time WebSocket alerts.
 
 ## Demo
+Original ui design(May have some diffrence): 
+https://rename-butter-12998403.figma.site
 
-![Main Screen](./docs/Main_Screen.png)
+<img src="./docs/Main_Screen.png" width="480" alt="Main Screen" />
 
 ## Architecture
 
