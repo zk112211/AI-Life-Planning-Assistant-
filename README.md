@@ -4,7 +4,7 @@ An AI-powered trip planning app that generates personalized day plans from natur
 
 ## Demo
 
-> _Add a screenshot or GIF here showing the app in action_
+![Main Screen](./docs/Main_Screen.png)
 
 ## Architecture
 
